@@ -1,8 +1,3 @@
-/*
-*       Sorting Visualizer by Gagan Bhatia
-*
-*       Github profile: GaganBhatia19
-* */
 
 package sortingVisualizer;
 
